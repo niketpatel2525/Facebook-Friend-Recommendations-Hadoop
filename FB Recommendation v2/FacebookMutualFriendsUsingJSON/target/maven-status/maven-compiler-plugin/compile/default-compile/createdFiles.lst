@@ -1,0 +1,6 @@
+facebook\FacebookFriendDriver.class
+facebook\mapreduce\FacebookFriendMapper.class
+facebook\custom\writable\FriendArray.class
+facebook\custom\writable\FriendPair.class
+facebook\custom\writable\Friend.class
+facebook\mapreduce\FacebookFriendReducer.class
